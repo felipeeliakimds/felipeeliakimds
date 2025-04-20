@@ -1,30 +1,28 @@
-# 👋 Olá! Eu sou o Felipe
+# 👋 Hello! I'm Felipe
 
-🎓 Estudante de Engenharia de Software | 💻 Futuro Dev em TI  
-🎯 Focado em crescer na área de tecnologia, com dedicação, consistência e criatividade.
+🎓 Software Engineering Student | 💻 Aspiring Dev in IT  
+🎯 Focused on growing in the tech field with dedication, consistency, and creativity.
 
-## 🚀 Sobre mim
-- 🌱 Atualmente estudando: Redes de Computadores, Segurança da Informação, Computação em Nuvem, Matemática e Lógica
-- 📚 Apaixonado por tecnologia, ensino e boas histórias
-- 🧑‍🏫 Dou aulas de inglês e estou desenvolvendo projetos educativos em TI
-- 🎶 Músico e curioso por natureza
+## 🚀 About Me
+- 🌱 Currently studying: Computer Networks, Information Security, Cloud Computing, Mathematics and Logic  
+- 📚 Passionate about technology, teaching, and great stories  
+- 🧑‍🏫 English tutor and developer of educational tech projects  
+- 🎶 Musician and naturally curious  
 
-## 🛠️ Tecnologias e Ferramentas
-- Linguagens: `Python` | `JavaScript` | `HTML/CSS`
-- Ferramentas: `Git & GitHub` | `VS Code` | `Notion` | `Figma`
-- Conceitos: `Redes`, `Segurança`, `Desenvolvimento Web`, `Computação em Nuvem`
+## 🛠️ Technologies & Tools
+- Languages: `Python` | `JavaScript` | `HTML/CSS`  
+- Tools: `Git & GitHub` | `VS Code` | `Notion` | `Figma`  
+- Concepts: `Networking` | `Security` | `Web Development` | `Cloud Computing`  
 
+## 🌐 Portfolio in Progress  
+`Personal website with projects, bio, and career path in tech`  
+[Coming soon!]
 
-- 🌐 **Portfólio em Desenvolvimento**  
-  `Site pessoal com projetos, biografia e trajetória em TI`  
-  [Em breve!]
-
-## 📫 Como me encontrar
-- LinkedIn: [https://www.linkedin.com/in/felipeeliakim/](#)
-- GitHub: [https://github.com/felipeeliakimds/](#)
-- E-mail: felipeeliakim0756@gmail.com
+## 📫 How to reach me
+- LinkedIn: [https://www.linkedin.com/in/felipeeliakim/](#)  
+- GitHub: [https://github.com/felipeeliakimds/](#)  
+- Email: felipeeliakim0756@gmail.com
 
 ---
 
-### ✨ “Liberdade me traz visão e qualidade de vida.”
-
+### ✨ “Freedom brings me vision and quality of life.”
